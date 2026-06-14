@@ -21,7 +21,7 @@
 class RishiKumar:
     def __init__(self):
         self.name       = "Rishi Kumar Danthoju"
-        self.role       = "Python Developer & ML Enthusiast"
+        self.role       = "Python Developer"
         self.education  = "B.Tech IT — MRIET, Hyderabad"
         self.location   = "Muthylampadu, India 🇮🇳"
         self.email      = "rishi88973@gmail.com"
