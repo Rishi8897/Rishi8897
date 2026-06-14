@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishi%20Kumar%20Danthoju&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Python%20Developer%20%7C%20ML%20%26%20XAI%20Enthusiast&descAlignY=75&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rishi%20Kumar%20Danthoju&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Python%20Developer%20|%20ML%20and%20XAI%20Enthusiast&descAlignY=72" width="100%"/>
 
 <div align="center">
 
