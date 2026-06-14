@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=🚀+Building+Intelligent+Systems+with+Python;🤖+Exploring+Machine+Learning+%26+XAI;💡+Turning+Data+into+Actionable+Insights;🎓+IT+Graduate+%7C+Actively+Seeking+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+with+Python;Exploring+Machine+Learning+and+XAI;Turning+Data+into+Actionable+Insights;IT+Graduate+Actively+Seeking+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
